@@ -1,9 +1,9 @@
 {
-  "name": "egg-view-react-dom",
+  "name": "egg-view-react",
   "version": "0.0.2",
   "description": "egg view plugin for react",
   "eggPlugin": {
-    "name": "view",
+    "name": "react",
     "dep": [
       "security"
     ]
@@ -75,12 +75,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-view-react.git"
+    "url": "git+https://github.com/Superman-wc/egg-view-react.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/Superman-wc/egg/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-view-react-dom#readme",
-  "author": "Superman-wc <atian25@qq.com>",
+  "homepage": "https://github.com/Superman-wc/egg-view-react#readme",
+  "author": "Superman-wc <bainx@vip.qq.com>",
   "license": "MIT"
 }
