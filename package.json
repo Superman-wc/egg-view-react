@@ -1,6 +1,6 @@
 {
   "name": "egg-view-react",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "egg view plugin for react",
   "eggPlugin": {
     "name": "react",
